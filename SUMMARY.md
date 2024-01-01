@@ -11,4 +11,4 @@
     * [Open Standards](kcna/cloud-native-architecture/openstandards.md)
     * [Cloud Native Roles and SRE](kcna/cloud-native-architecture/cn-roles-and-sre.md)
     * [Community and Governance](kcna/cloud-native-architecture/governance.md)
-    
+  * [Container Orchestration](kcna/container-orchestration/README.md)

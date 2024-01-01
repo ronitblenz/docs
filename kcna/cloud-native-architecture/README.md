@@ -6,6 +6,8 @@ The emergence of cloud computing has transformed the way applications are develo
 
 This chapter focuses on the concept of Cloud Native Architecture, a modern approach to application architecture that is intrinsically linked with cloud technologies. We'll explore the defining features of cloud-native applications and how they stand apart from traditional software design methods.
 
+![Alt text](https://imgopt.infoq.com/fit-in/1200x2400/filters:quality(80)/filters:no_upscale()/articles/cloud-native-architecture-adoption-part1/en/resources/1figure-1-architecture-evolution-from-mainframe-to-cloud-and-microservices-1574407428044.jpg)
+
 ## Key Learning Outcomes
 
 After completing this chapter, you'll have a comprehensive understanding of:

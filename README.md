@@ -1,3 +1,7 @@
-# Ronit's Docs
+# $whoami
 
-KCNA notes loading...
+I am Ronit Banerjee, CNCF Ambassador from Kolkata, India. I have maintained a strong portfolio being an Open Source Developer at the projects incubated and graduated from The Linux Foundation and Cloud Native Computing Foundation. I am serving as Google Summer of Code (GSoC) Mentor at DBpedia and I also worked as an Open Source Developer in Google Summer of Code (GSoC) at DBpedia. Apart from my technical experience, I got my hands dirty in fostering the Cloud Native Ecosystem. I am also the Chapter Lead at Cloud Native Hooghly which is an official CNCF Chapter listed amongst 40 such clubs in the Asia Pacific Region. Right now, with the proliferation of the Cloud Native Tools, I successfully turned the chapter to be the fastest growing in the entire Eastern India, catering 500+ Active members. I am also a Sig Contribex’s Comms Volunteer for Kubernetes Contributors Summit North America 2023 at Chicago, United States of America primarily looking into the “Call for Proposal” emails and notifying about the updates to the KubeCon co-located event attendees.
+
+## What is docs.ronitbanerjee.com?
+
+Here, I write docs for my LFX and CNCF Certification Preparation and also write blogs which might be useful for folks who are interested in the Cloud Native and DevOps domain.

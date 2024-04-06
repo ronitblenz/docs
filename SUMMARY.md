@@ -41,3 +41,7 @@
     * [Autoscaling Objects](kcna/working-with-kubernetes/autoscaling-objects.md)
     * [Scheduling Objects](kcna/working-with-kubernetes/scheduling-objects.md)
     * [Kubernetes Security](kcna/working-with-kubernetes/kubernetes-security.md)
+  * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
+    * [Application Delivery Fundamentals](kcna/cloud-native-application-delivery/app-delivery-fundamentals.md)
+    * [CI/CD](kcna/cloud-native-application-delivery/ci-cd.md)
+    * [GitOps](kcna/cloud-native-application-delivery/gitops.md)

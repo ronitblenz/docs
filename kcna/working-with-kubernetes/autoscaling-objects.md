@@ -29,6 +29,5 @@ In Kubernetes, autoscaling is an essential feature that ensures your application
 
 Explore autoscaling hands-on through interactive tutorials available in the Kubernetes documentation. These tutorials provide practical experience in [manually scaling applications and understanding the dynamics of Kubernetes autoscaling mechanisms](https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/).
 
-![Scaling overview](https://kubernetes.io/docs/tutorials/kubernetes-basics/public/images/module_05_scaling2.svg)
 
 By utilizing these autoscaling mechanisms, Kubernetes ensures that your applications remain responsive and efficient under varying loads, optimizing resource usage and cost. Whether through increasing the number of pod replicas, adjusting pod resource requests, or managing the size of the cluster itself, Kubernetes provides a comprehensive set of tools to maintain application performance and reliability.

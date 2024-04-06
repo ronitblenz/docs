@@ -6,7 +6,7 @@ A certified KCNA will confirm conceptual knowledge of the entire cloud native ec
 
 ### 🔗 Free Online Video Content:
 
-[![KCNA Course @ FreeCodeCamp](https://img.youtube.com/vi/AplluksKvzI/0.jpg)](https://www.youtube.com/watch?v=AplluksKvzI)
+https://www.youtube.com/watch?v=AplluksKvzI
 
 
 ## Who is it for:

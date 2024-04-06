@@ -39,5 +39,5 @@
     * [Volume & Storage Objects](kcna/working-with-kubernetes/volume-storage-objects.md)
     * [Configuration Objects](kcna/working-with-kubernetes/configuration-objects.md)
     * [Autoscaling Objects](kcna/working-with-kubernetes/autoscaling-objects.md)
-    * [Scheduling Objects](kcna/working-with-kubernetes/Scheduling-objects.md)
+    * [Scheduling Objects](kcna/working-with-kubernetes/scheduling-objects.md)
     * [Kubernetes Security](kcna/working-with-kubernetes/kubernetes-security.md)

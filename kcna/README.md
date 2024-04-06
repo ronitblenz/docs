@@ -4,6 +4,11 @@ A certified KCNA will confirm conceptual knowledge of the entire cloud native ec
 
 ![Logo](https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo-300x300.png)
 
+### 🔗 Free Online Video Content:
+
+[![KCNA Course @ FreeCodeCamp](https://img.youtube.com/vi/AplluksKvzI/0.jpg)](https://www.youtube.com/watch?v=AplluksKvzI)
+
+
 ## Who is it for:
 The KCNA is a pre-professional certification designed for candidates interested in advancing to the professional level through a demonstrated understanding of kubernetes foundational knowledge and skills. This certification is ideal for students learning about or candidates interested in working with cloud native technologies.
 
